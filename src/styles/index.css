@@ -7,5 +7,6 @@ body {
 }
 
 .image-desktop {
-  background-image: url("../../public/imagens/pattern-divider-desktop.svg");
+  /* background-image: url("../../public/imagens/pattern-divider-desktop.svg"); */
+  width: 50%;
 }
