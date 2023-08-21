@@ -6,7 +6,8 @@ body {
   font-family: "Manrope", sans-serif;
 }
 
-.image-desktop {
-  /* background-image: url("../../public/imagens/pattern-divider-desktop.svg"); */
-  width: 50%;
+.image-button {
+  background-image: url("../../public/imagens/icon-dice.svg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
