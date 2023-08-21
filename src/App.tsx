@@ -1,7 +1,11 @@
+import Content from "./components/Content";
+
 function App() {
   return (
     <>
-      <h1 className="bg-zinc-300">Hello World</h1>
+      <div className="bg-slate-800 h-screen w-screen">
+        <Content />
+      </div>
     </>
   );
 }
