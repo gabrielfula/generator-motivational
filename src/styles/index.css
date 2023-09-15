@@ -7,7 +7,7 @@ body {
 }
 
 .image-button {
-  background-image: url("../../public/imagens/icon-dice.svg");
+  background-image: url("./imagens/icon-dice.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
