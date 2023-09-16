@@ -1,5 +1,3 @@
-// import Division from "./Division";
-
 import { useState } from "react";
 import Division from "./Division";
 import { TypeText } from "../types/text";
